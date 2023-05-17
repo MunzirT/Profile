@@ -1,0 +1,57 @@
+.hero {
+  padding-top: 2rem;
+  background-color: rgb(202, 202, 202);
+  font-family: "Comfortaa", cursive;
+}
+
+.hero h1 {
+  font-size: 50px;
+}
+
+.hero p {
+  font-size: 20px;
+}
+
+.hero img {
+  border-radius: 15%;
+}
+
+table {
+  font-size: 20px;
+}
+
+/* Fotter */
+footer {
+  background-color: #505050;
+  text-align: center;
+  padding: 0.5rem 0 0.5rem;
+  margin-top: 1rem;
+}
+
+footer .socials {
+  padding: 0.5rem 0 0.5rem;
+}
+
+footer .socials a {
+  color: aliceblue;
+  margin: 1rem;
+}
+
+footer .socials a:hover {
+  color: var(--bacground);
+}
+
+footer .links a {
+  color: aliceblue;
+  padding: 0.5rem 0.7rem 0.5rem;
+}
+
+footer .credit {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+footer .credit a {
+  color: var(--bacground);
+  font-weight: 500;
+}
